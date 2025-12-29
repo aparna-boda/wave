@@ -1,4 +1,5 @@
 # WAVE - Water Analysis & Vigilance Engine
+**Safeguarding Water with IoT and AI**
 
 ## Overview
 WAVE is an intelligent water quality monitoring system that discriminates between harmless variants and real contamination events using a multi-algorithm ensemble (Rolling Stats, Isolation Forest, One-Class SVM). It features an update-learning loop where operator feedback tunes the model's sensitivity over time.
