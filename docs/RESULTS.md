@@ -669,5 +669,3 @@ CRITICAL: >5 standard deviations or CPCB violation
 ```
 
 ---
-
-**All results are reproducible using random seed 42. Contact team for raw data files.** ✅

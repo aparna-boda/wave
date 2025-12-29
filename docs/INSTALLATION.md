@@ -856,8 +856,3 @@ After successful installation:
 4. **Customize parameters**: Edit `src/config.py`
 5. **Integrate real sensors**: See [Advanced Configuration](#advanced-configuration)
 
-**Happy monitoring!** 🚀💧
-
----
-
-**Installation support**: If you encounter issues, please create a GitHub issue with your error message and system details.
